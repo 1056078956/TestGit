@@ -12,7 +12,7 @@ export default class audioComp extends cc.Component {
     private isPlay = false;
     onLoad () {
         //this.initVal();
-        cc.log('tttes13');
+        cc.log('tttes135');
         this.isPlay = true;
         this.playMusic('sound/pray/bg');
     }
